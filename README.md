@@ -9,3 +9,7 @@ Bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 ```pwsh
 scoop bucket add godot https://github.com/nonperforming/scoop-godot
 ```
+
+## The version I want is missing!
+
+[Please feel free to open an issue](https://github.com/nonperforming/scoop-godot/issues), or add it yourself.
